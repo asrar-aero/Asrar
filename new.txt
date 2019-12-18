@@ -1,5 +1,6 @@
 this is to practice moving files to git repository
 modified example
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 
@@ -7,3 +8,7 @@ track difference
 
 this is examüle of stances
 >>>>>>> Stashed changes
+=======
+
+track differences
+>>>>>>> master
