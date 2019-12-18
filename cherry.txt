@@ -1,2 +1,7 @@
 this is new file for cherry pick
+<<<<<<< HEAD
 
+=======
+ now what to do
+nothing to do
+>>>>>>> 86eb554... again edited
