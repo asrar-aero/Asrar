@@ -1,2 +1,9 @@
 this is to practice moving files to git repository
 modified example
+<<<<<<< Updated upstream
+=======
+
+track difference
+
+this is examüle of stances
+>>>>>>> Stashed changes
