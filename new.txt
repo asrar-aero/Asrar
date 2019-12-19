@@ -12,3 +12,5 @@ this is examüle of stances
 
 track differences
 >>>>>>> master
+
+stash example
